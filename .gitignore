@@ -1,0 +1,7 @@
+# gitignore for dotfiles
+# ignore everything and only explicit list files in the repo
+*
+
+# .git
+!.gitignore
+!.gitconfig
